@@ -1,0 +1,9 @@
+{
+  "name": "Grandparenting Tips & Activities",
+  "description": "A simple website with grandparenting tips, activities, and connection ideas.",
+  "repository": "https://github.com/yourusername/grandparenting-tips",
+  "keywords": ["node", "express", "grandparenting"],
+  "env": {
+    "NODE_ENV": { "value": "production" }
+  }
+}
